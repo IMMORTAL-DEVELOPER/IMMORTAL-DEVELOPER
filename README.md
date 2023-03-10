@@ -4,7 +4,7 @@
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DEMIGOD-AKSHAY}/count.svg"/></p> 
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/demigod_tricky)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/demigod_akshay)
  [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://youtube.com/@demigod_tricky)
 
 <a href="https://telegram.dog/DEMIGOD_AKSHAY_BOT"><img alt="Telegram" src="https://img.shields.io/badge/DEMIGOD AKSHAY-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
