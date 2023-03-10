@@ -7,7 +7,7 @@
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/demigod_akshay)
  [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://youtube.com/@demigod_tricky)
 
-<a href="https://telegram.dog/ii_am_akshay"><img alt="Telegram" src="https://img.shields.io/badge/DEMIGOD AKSHAY-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+<a href="https://telegram.dog/ii_am_akshay_bot"><img alt="Telegram" src="https://img.shields.io/badge/DEMIGOD AKSHAY-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
 <p align="center">
